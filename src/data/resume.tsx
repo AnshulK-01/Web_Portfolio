@@ -119,7 +119,9 @@ export const DATA = {
       start: "March 2025",
       end: "Present",
       description:
-        "At OffScript, I'm focused on building and growing a vibrant community of creators, thinkers, and innovators. I design and execute community engagement strategies, host interactive sessions and events that bring real value, and collaborate with like-minded people to foster growth.",
+        "At OffScript, I&apos;m focused on building and growing a vibrant community of creators, thinkers, and innovators. I design and execute community engagement strategies, host interactive sessions and events that bring real value, and collaborate with like-minded people to foster growth.",
+      href: "",
+      badges: [],
     },
     {
       company: "HackQuest",
@@ -131,6 +133,7 @@ export const DATA = {
       end: "Present",
       description:
         "As an Advocate at HackQuest, I am excited to engage with the dynamic tech community and contribute to its growth. My role involves learning and sharing knowledge about Web3 and AI technologies, collaborating with like-minded individuals, and participating in exclusive events and projects. Through this program, I aim to promote innovation, foster connections, and grow my expertise while helping others navigate the exciting world of decentralized technologies.",
+      badges: [],
     },
       
   ],
@@ -170,7 +173,6 @@ export const DATA = {
         "Solidity",
         "Pinata",
         "Figma",
-        
       ],
       links: [
         {
@@ -180,6 +182,7 @@ export const DATA = {
         },
       ],
       image: "",
+      video: "",
     },
     {
       title: "Anime Generator",
@@ -199,12 +202,9 @@ export const DATA = {
           href: "https://anime-generator-two.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/AnshulK-01/Anime-Generator",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
+      image: "",
+      video: "",
     },
     {
       title: "E-vyapaar",
@@ -212,11 +212,11 @@ export const DATA = {
       dates: "March 2025",
       active: true,
       description:
-        "E-vyapaar — A frontend project developed using HTML, CSS, and JavaScript to help small vendors and businesses monitor their sales and inventory through a centralized platform. It provides a combined analysis of stock and sales data from multiple platforms like Flipkart, Amazon, and Meesho, helping vendors easily track and manage their business from one place.",
+        "E-vyapaar — A frontend project developed using HTML, CSS, and JavaScript to help small vendors and businesses modernize their operations. The platform provides a user-friendly interface for managing inventory, tracking sales, and connecting with customers.",
       technologies: [
         "HTML",
-        "CSS",  
-        "JavaScript"
+        "CSS",
+        "JavaScript",
       ],
       links: [
         {
@@ -224,13 +224,9 @@ export const DATA = {
           href: "https://e-vyapar.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/AnshulK-01/E-Vyapar-Project",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
       image: "",
+      video: "",
     },
     {
       title: "Suraksha Mitra",
@@ -244,7 +240,6 @@ export const DATA = {
         "CSS",  
         "JavaScript",
         "VirusTotal",
-     
       ],
       links: [
         {
@@ -259,6 +254,7 @@ export const DATA = {
         },
       ],
       image: "",
+      video: "",
     },
     {
       title: "MineFind",
@@ -273,7 +269,6 @@ export const DATA = {
         "Nmap",
         "Flask",
         "Python"
-      
       ],
       links: [
         {
@@ -283,6 +278,7 @@ export const DATA = {
         },
       ],
       image: "",
+      video: "",
     },
     {
       title: "SmartFlow",

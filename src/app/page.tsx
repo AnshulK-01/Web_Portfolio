@@ -283,7 +283,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                While pursuing my studies in university, I've been actively participating in hackathons where students come together to build incredible things in just 2–3 days. These experiences have been eye-opening, showing how much can be achieved when passionate minds collaborate.
+                While pursuing my studies in university, I&apos;ve been actively participating in hackathons where students come together to build incredible things in just 2–3 days. These experiences have been eye-opening, showing how much can be achieved when passionate minds collaborate.
                 </p>
               </div>
             </div>
