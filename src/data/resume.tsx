@@ -119,7 +119,7 @@ export const DATA = {
       start: "March 2025",
       end: "Present",
       description:
-        "At OffScript, I&apos;m focused on building and growing a vibrant community of creators, thinkers, and innovators. I design and execute community engagement strategies, host interactive sessions and events that bring real value, and collaborate with like-minded people to foster growth.",
+        "At OffScript, I'm focused on building and growing a vibrant community of creators, thinkers, and innovators. I design and execute community engagement strategies, host interactive sessions and events that bring real value, and collaborate with like-minded people to foster growth.",
       href: "",
       badges: [],
     },
